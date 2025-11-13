@@ -61,7 +61,13 @@
             object-fit: cover;
         }
     }
-    
+    .author__avatar img {
+        border-radius: 50% !important;
+        width: 180px !important;
+        height: 180px !important;
+        object-fit: cover !important;
+   }
+
     .paper-box-text{
         max-width: 100%;
         order: 1;
