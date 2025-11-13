@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Jingqi Lin"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : ""PhD student in CSE @ HKUST"
+  bio              : "PhD student in CSE @ HKUST"
   location         : "Hong Kong"
   employer         :
   pubmed           : 
