@@ -42,3 +42,11 @@ Hello! I’m **Jingqi Lin (林静琦)**, a year-one PhD student in the research 
 # 💻 Internships
 - *2024.05 - 2025.05*, Research Assistant @ AWSG(CUHK), Hong Kong, China.
 - *2024.01 - 2024.03*, Intern @ Suzhou Phaserise Technology Co., Ltd., China.
+
+## 🌱 Always Evolving — Growing Forward
+
+<p align="center">
+  <img src="/images/miaowa.png" width="360">
+</p>
+
+<p align="center"><i>Like a Pokémon evolution — learning, adapting, and growing every day.</i></p>
