@@ -46,7 +46,7 @@ Hello! I’m **Jingqi Lin (林静琦)**, a year-one PhD student in the research 
 ## 🌱 Always Evolving — Growing Forward
 
 <p align="center">
-  <img src="/images/miaowa.png" width="360">
+  <img src="/images/miaowa.png" width="450">
 </p>
 
 <p align="center"><i>Like a Pokémon evolution — learning, adapting, and growing every day.</i></p>
