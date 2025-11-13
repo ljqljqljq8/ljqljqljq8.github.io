@@ -40,5 +40,5 @@ Hello! I’m **Jingqi Lin (林静琦)**, a year-one PhD student in the research 
 - *2021.09 - 2025.06*, Huazhong University of Science and Technology，B.E., Communication Engineering, Wuhan, China.
 
 # 💻 Internships
-- *2024.05 - 2025.05*, Research Assistant @ AWSG(CUHK)，Hong Kong, China.
+- *2024.05 - 2025.05*, Research Assistant @ AWSG(CUHK), Hong Kong, China.
 - *2024.01 - 2024.03*, Intern @ Suzhou Phaserise Technology Co., Ltd., China.
