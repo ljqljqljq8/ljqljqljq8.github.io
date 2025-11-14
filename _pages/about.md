@@ -29,6 +29,14 @@ Hello! I’m **Jingqi Lin (林静琦)**, a year-one PhD student in the research 
 **MobiCom'25** Towards low-cost soil moisture sensing using GNSS signals  
 Huixin Dong, Jingqi Lin, Minhao Cui, Serene Zhang, Lili Qiu, Jie Xiong, Wei Wang
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MobiCom'25</div></div></div>
+<div class='paper-box-text' markdown="1">
+[Towards low-cost soil moisture sensing using GNSS signals](https://arxiv.org/pdf/2503.11490) 📑[PDF](https://arxiv.org/pdf/2503.11490)
+
+Huixin Dong, Jingqi Lin, Minhao Cui, Serene Zhang, Lili Qiu, Jie Xiong, Wei Wang 
+</div>
+</div>
+
 **ICNC'25** Rephrase and Contrast: Fine-Tuning Language Models for Enhanced Understanding of Communication and Computer Networks  
 Liujianfu Wang\*, Yuyang Du\*, Jingqi Lin\*, Kexin Chen, Soung Chang Liew
 
