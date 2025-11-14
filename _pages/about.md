@@ -27,38 +27,11 @@ Hello! I’m **Jingqi Lin (林静琦)**, a year-one PhD student in the research 
 
 ### 📝 Publications
 
-<!-- GPSoil -->
-<p>
-  <span style="display:inline-block;background-color:#0b66c3;color:#ffffff;
-               padding:4px 12px;border-radius:20px;font-weight:600;font-size:14px;">
-    MobiCom'25
-  </span>
-  &nbsp;
-  <a href="#" style="font-size:17px;">
-    <strong>Towards low-cost soil moisture sensing using GNSS signals</strong>
-  </a>
-</p>
+**<span class="label">MobiCom'25</span>  Towards low-cost soil moisture sensing using GNSS signals**
+**Huixin Dong*, Jingqi Lin***, Minhao Cui, Serene Zhang, Lili Qiu, Jie Xiong, Wei Wang
 
-<p style="margin-left: 120px; font-size: 15px;">
-  Huixin Dong, Jingqi Lin, Minhao Cui, Serene Zhang,
-  Lili Qiu, Jie Xiong, Wei Wang
-</p>
-<!-- RaC -->
-<p>
-  <span style="display:inline-block;background-color:#0b66c3;color:#ffffff;
-               padding:4px 12px;border-radius:20px;font-weight:600;font-size:14px;">
-    ICNC'25
-  </span>
-  &nbsp;
-  <a href="#" style="font-size:17px;">
-    <strong>Rephrase and Contrast: Fine-Tuning Language Models for Enhanced Understanding of Communication and Computer Networks</strong>
-  </a>
-</p>
-
-<p style="margin-left: 120px; font-size: 15px;">
-  <strong>Liujianfu Wang</strong><sup>*</sup>, <strong>Yuyang Du</strong><sup>*</sup>, <strong>Jingqi Lin</strong><sup>*</sup>, 
-  Kexin Chen, Soung Chang Liew
-</p>
+**<span class="label">ICNC'25</span>  Rephrase and Contrast: Fine-Tuning Language Models for Enhanced Understanding of Communication and Computer Networks**
+**Liujianfu Wang*, Yuyang Du*, Jingqi Lin***, Kexin Chen, Soung Chang Liew
 
 
 # 🎖 Honors and Awards
