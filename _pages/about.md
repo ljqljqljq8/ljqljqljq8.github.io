@@ -40,12 +40,9 @@ Hello! I’m **Jingqi Lin (林静琦)**, a year-one PhD student in the research 
 </p>
 
 <p style="margin-left: 120px; font-size: 15px;">
-  <strong>Huixin Dong</strong><sup>⭐</sup>, <strong>Jingqi Lin</strong><sup>⭐</sup>, Minhao Cui, Serene Zhang,
+  Huixin Dong, Jingqi Lin, Minhao Cui, Serene Zhang,
   Lili Qiu, Jie Xiong, Wei Wang
 </p>
-
-<br/>
-
 <!-- RaC -->
 <p>
   <span style="display:inline-block;background-color:#0b66c3;color:#ffffff;
@@ -59,7 +56,7 @@ Hello! I’m **Jingqi Lin (林静琦)**, a year-one PhD student in the research 
 </p>
 
 <p style="margin-left: 120px; font-size: 15px;">
-  <strong>Liujianfu Wang</strong><sup>⭐</sup>, <strong>Yuyang Du</strong><sup>⭐</sup>, <strong>Jingqi Lin</strong><sup>⭐</sup>, 
+  <strong>Liujianfu Wang</strong><sup>*</sup>, <strong>Yuyang Du</strong><sup>*</sup>, <strong>Jingqi Lin</strong><sup>*</sup>, 
   Kexin Chen, Soung Chang Liew
 </p>
 
