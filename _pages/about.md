@@ -28,9 +28,11 @@ Hello! I’m **Jingqi Lin (林静琦)**, a year-one PhD student in the research 
 ### 📝 Publications
 
 **<span class="label">MobiCom'25</span>  Towards low-cost soil moisture sensing using GNSS signals**
+
 **Huixin Dong*, Jingqi Lin***, Minhao Cui, Serene Zhang, Lili Qiu, Jie Xiong, Wei Wang
 
 **<span class="label">ICNC'25</span>  Rephrase and Contrast: Fine-Tuning Language Models for Enhanced Understanding of Communication and Computer Networks**
+
 **Liujianfu Wang*, Yuyang Du*, Jingqi Lin***, Kexin Chen, Soung Chang Liew
 
 
