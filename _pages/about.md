@@ -49,4 +49,4 @@ Hello! I’m **Jingqi Lin (林静琦)**, a year-one PhD student in the research 
   <img src="/images/miaowa.png" width="450">
 </p>
 
-<p align="center"><i>Like a Pokémon evolution</i></p>
+<p align="center"><i>Always evolving toward my next form.</i></p>
