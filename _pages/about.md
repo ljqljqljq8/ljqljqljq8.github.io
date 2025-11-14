@@ -24,24 +24,24 @@ Hello! I’m **Jingqi Lin (林静琦)**, a year-one PhD student in the research 
 - **2025.08** · 📄 *LLMind 2.0* is released on arXiv.  
 - **2025.06** · 📡 *GPSoil* is accepted to ACM MobiCom 2025.  
 - **2025.02** · 🔗 *RaC* is accepted to ICNC 2025.
+
 ### 📝 Publications
 
 <!-- GPSoil -->
 <p>
   <span style="display:inline-block;background-color:#0b66c3;color:#ffffff;
-               padding:4px 10px;border-radius:20px;font-weight:600;">
+               padding:4px 12px;border-radius:20px;font-weight:600;font-size:14px;">
     MobiCom'25
   </span>
   &nbsp;
-  <a href="#" target="_blank">
-    <strong>GPSoil: Towards low-cost soil moisture sensing using GNSS signals</strong>
+  <a href="#" style="font-size:17px;">
+    <strong>Towards low-cost soil moisture sensing using GNSS signals</strong>
   </a>
-  &nbsp;
-  <a href="#" target="_blank">📑 PDF</a>
 </p>
 
-<p style="margin-left: 120px;">
-  <strong>Huixin Dong</strong>, Jingqi Lin, Minhao Cui, Serene Zhang, Lili Qiu, Jie Xiong, Wei Wang
+<p style="margin-left: 120px; font-size: 15px;">
+  <strong>Huixin Dong</strong><sup>⭐</sup>, <strong>Jingqi Lin</strong><sup>⭐</sup>, Minhao Cui, Serene Zhang,
+  Lili Qiu, Jie Xiong, Wei Wang
 </p>
 
 <br/>
@@ -49,21 +49,20 @@ Hello! I’m **Jingqi Lin (林静琦)**, a year-one PhD student in the research 
 <!-- RaC -->
 <p>
   <span style="display:inline-block;background-color:#0b66c3;color:#ffffff;
-               padding:4px 10px;border-radius:20px;font-weight:600;">
+               padding:4px 12px;border-radius:20px;font-weight:600;font-size:14px;">
     ICNC'25
   </span>
   &nbsp;
-  <a href="https://arxiv.org/abs/2409.19007" target="_blank">
+  <a href="#" style="font-size:17px;">
     <strong>Rephrase and Contrast: Fine-Tuning Language Models for Enhanced Understanding of Communication and Computer Networks</strong>
   </a>
-  &nbsp;
-  <a href="https://arxiv.org/pdf/2409.19007.pdf" target="_blank">📑 PDF</a>
 </p>
 
-<p style="margin-left: 120px;">
-  <strong>Liujianfu Wang</strong>, <strong>Yuyang Du</strong>, <strong>Jingqi Lin</strong>, Kexin Chen, Soung Chang Liew
-  <!-- 如果你们是共同一作，可以在这里加：  <em>(equal contribution)</em> -->
+<p style="margin-left: 120px; font-size: 15px;">
+  <strong>Liujianfu Wang</strong><sup>⭐</sup>, <strong>Yuyang Du</strong><sup>⭐</sup>, <strong>Jingqi Lin</strong><sup>⭐</sup>, 
+  Kexin Chen, Soung Chang Liew
 </p>
+
 
 # 🎖 Honors and Awards
 - **2025** · 🏅 Outstanding Graduate, HUST
