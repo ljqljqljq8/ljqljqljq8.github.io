@@ -25,7 +25,7 @@ Hello! I’m **Jingqi Lin (林静琦)**, a year-one PhD student in the research 
 - **2025.06** · 📡 *GPSoil* is accepted to ACM MobiCom 2025.  
 - **2025.02** · 🔗 *RaC* is accepted to ICNC 2025.
 
-### 📝 Publications
+# 📝 Publications
 **MobiCom'25** Towards low-cost soil moisture sensing using GNSS signals  
 Huixin Dong, Jingqi Lin, Minhao Cui, Serene Zhang, Lili Qiu, Jie Xiong, Wei Wang
 
