@@ -33,7 +33,6 @@ Huixin Dong, Jingqi Lin, Minhao Cui, Serene Zhang, Lili Qiu, Jie Xiong, Wei Wang
 Liujianfu Wang*, Yuyang Du*, Jingqi Lin*, Kexin Chen, Soung Chang Liew
 
 
-
 # 🎖 Honors and Awards
 - **2025** · 🏅 Outstanding Graduate, HUST
 - **2024** · 💰 HUST Undergraduate Natural Science Innovation Fund (Project Leader; **¥50,000**)  
