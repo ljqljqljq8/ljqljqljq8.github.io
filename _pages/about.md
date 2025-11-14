@@ -26,12 +26,12 @@ Hello! I’m **Jingqi Lin (林静琦)**, a year-one PhD student in the research 
 - **2025.02** · 🔗 *RaC* is accepted to ICNC 2025.
 
 ### 📝 Publications
-
-**<span class="label">MobiCom'25</span>  Towards low-cost soil moisture sensing using GNSS signals**<br/>
+**<span class="label">MobiCom'25</span> Towards low-cost soil moisture sensing using GNSS signals**  
 Huixin Dong, Jingqi Lin, Minhao Cui, Serene Zhang, Lili Qiu, Jie Xiong, Wei Wang
 
-**<span class="label">ICNC'25</span>  Rephrase and Contrast: Fine-Tuning Language Models for Enhanced Understanding of Communication and Computer Networks**<br/>
+**<span class="label">ICNC'25</span> Rephrase and Contrast: Fine-Tuning Language Models for Enhanced Understanding of Communication and Computer Networks**  
 Liujianfu Wang*, Yuyang Du*, Jingqi Lin*, Kexin Chen, Soung Chang Liew
+
 
 
 # 🎖 Honors and Awards
