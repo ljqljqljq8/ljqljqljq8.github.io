@@ -49,7 +49,7 @@ Liujianfu Wang\*, Yuyang Du\*, Jingqi Lin\*, Kexin Chen, Soung Chang Liew
 
 # 💻 Internships
 - *2024.05 - 2025.05*, Research Assistant @ AWSG(CUHK), Hong Kong, China.
-- 
+
 ## 🌱 Keep  Evolving
 
 <p align="center">
