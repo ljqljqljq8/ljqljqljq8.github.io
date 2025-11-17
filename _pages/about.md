@@ -36,7 +36,7 @@ Liujianfu Wang\*, Yuyang Du\*, Jingqi Lin\*, Kexin Chen, Soung Chang Liew
 # 🎖 Honors and Awards
 - **2025** · 🏅 Outstanding Graduate, HUST
 - **2024** · 💰 HUST Undergraduate Natural Science Innovation Fund (Project Leader; **¥50,000**)  
-- **2024** · 🔬 Science and Technology Innovation Scholarship  
+- **2024** · 🔬 Science and Technology Innovation Scholarship, HUST  
 - **2023** · 🎓 Huawei Scholarship  
 - **2023** · 🥇 National Scholarship 
 - **2023** · 🌟 Merit Student, HUST  
