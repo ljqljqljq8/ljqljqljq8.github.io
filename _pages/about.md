@@ -57,4 +57,4 @@ Liujianfu Wang\*, Yuyang Du\*, Jingqi Lin\*, Kexin Chen, Soung Chang Liew
   <img src="/images/miaowa.png" width="450">
 </p>
 
-<p align="center"><i>Evolving toward the next form.</i></p>
+<p align="center"><i>Evolving towards the next form.</i></p>
