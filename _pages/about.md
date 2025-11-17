@@ -49,8 +49,7 @@ Liujianfu Wang\*, Yuyang Du\*, Jingqi Lin\*, Kexin Chen, Soung Chang Liew
 
 # 💻 Internships
 - *2024.05 - 2025.05*, Research Assistant @ AWSG(CUHK), Hong Kong, China.
-- *2024.01 - 2024.03*, Intern @ Suzhou Phaserise Technology Co., Ltd., China.
-
+- 
 ## 🌱 Keep  Evolving
 
 <p align="center">
