@@ -44,8 +44,8 @@ Liujianfu Wang\*, Yuyang Du\*, Jingqi Lin\*, Kexin Chen, Soung Chang Liew
 
 
 # 📖 Educations
-- *2025.09 - Now*, The Hong Kong University of Science and Technology, Ph.D.，Computer Science and Engineering，Hong Kong, China.
-- *2021.09 - 2025.06*, Huazhong University of Science and Technology, B.E.，Communication Engineering, Wuhan, China.
+- *2025.09 - Now*, The Hong Kong University of Science and Technology, Ph.D., Computer Science and Engineering, Hong Kong, China.
+- *2021.09 - 2025.06*, Huazhong University of Science and Technology, B.E., Communication Engineering, Wuhan, China.
 
 ## 🌱 Keep  Evolving
 
