@@ -47,9 +47,6 @@ Liujianfu Wang\*, Yuyang Du\*, Jingqi Lin\*, Kexin Chen, Soung Chang Liew
 - *2025.09 - Now*, The Hong Kong University of Science and Technology, Ph.D., Computer Science and Engineering，Hong Kong, China.
 - *2021.09 - 2025.06*, Huazhong University of Science and Technology，B.E., Communication Engineering, Wuhan, China.
 
-# 💻 Internships
-- *2024.05 - 2025.05*, Research Assistant @ AWSG(CUHK), Hong Kong, China.
-
 ## 🌱 Keep  Evolving
 
 <p align="center">
