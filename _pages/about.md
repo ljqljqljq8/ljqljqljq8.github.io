@@ -20,10 +20,10 @@ redirect_from:
 Hello! I’m **Jingqi Lin (林静琦)**, a year-one PhD student in the research group led by [**Prof. Qian Zhang**](https://www.cse.ust.hk/~qianzh/) at the Department of Computer Science and Engineering, The Hong Kong University of Science and Technology (HKUST). Previously, I obtained my Bachelor’s degree in Communication Engineering from Huazhong University of Science and Technology (HUST), under the supervision of [**Prof. Wei Wang**](https://cs.whu.edu.cn/info/1019/55961.htm) in the [**MetaIoT Lab**](https://metaiot.group/).
 
 # 🔥 News
-- **2025.09** · 🎓 Started my **PhD** in Computer Science and Engineering at HKUST.  
-- **2025.08** · 📄 ***LLMind 2.0*** is released on arXiv.  
-- **2025.06** · 📡 ***GPSoil*** is accepted to ACM MobiCom 2025.  
-- **2025.02** · 🔗 ***RaC*** is accepted to ICNC 2025.
+- **2025.09** · 🎓 Started my PhD in Computer Science and Engineering at HKUST.  
+- **2025.08** · 📄 *LLMind 2.0* is released on arXiv.  
+- **2025.06** · 📡 *GPSoil* is accepted to ACM MobiCom 2025.  
+- **2025.02** · 🔗 *RaC* is accepted to ICNC 2025.
 
 # 📝 Publications
 **MobiCom'25** Towards low-cost soil moisture sensing using GNSS signals  
@@ -47,7 +47,7 @@ Liujianfu Wang\*, Yuyang Du\*, Jingqi Lin\*, Kexin Chen, Soung Chang Liew
 - *2025.09 - Now*, The Hong Kong University of Science and Technology, Ph.D., Computer Science and Engineering, Hong Kong, China.
 - *2021.09 - 2025.06*, Huazhong University of Science and Technology, B.E., Communication Engineering, Wuhan, China.
 
-## 🌱 Keep  Evolving
+# 🌱 Keep  Evolving
 
 <p align="center">
   <img src="/images/miaowa.png" width="450">
